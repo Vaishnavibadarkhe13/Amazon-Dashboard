@@ -15,4 +15,5 @@ The business needs that drove the creation of your Amazon sales analysis dashboa
 * Data modeling: Designed a data model that organized the data in a way that made it easy to analyze and visualize.
 * Data visualization: Used Power BI to create charts, tables, and other visualizations that presented the data in a way that was easy to understand.
 * Analysis and insights: Analyzed the visualizations to identify trends and insights that informed business decisions.
+  
 By following this process, able to gain insights into Amazon sales performance, such as which product categories and geographic regions were driving the most sales, which products were the most popular, and how to optimize sales strategy to improve profitability.
